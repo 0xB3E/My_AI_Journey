@@ -30,13 +30,13 @@ Build websites and apps using the skills I'm learning along the way.
 
 ## 🛤️ Learning Roadmap
 
-- [x] Explore AI chatbots (ChatGPT & Claude)
-- [x] Learn basic HTML, CSS, and JavaScript
+- [x] Explore AI chatbots (Claude)
+- [x] Use Github to launch code and document my progress
 - [x] Start learning Python
 - [ ] Build my first simple webpage
-- [ ] Use AI to help me build a small project
+- [ ] Use AI to help me build small projects
 - [ ] Learn about APIs (how apps talk to each other)
-- [ ] Build a complete web app
+- [ ] Train my own LLM using open source sytems (Goose or Llama) 
 
 ---
 
